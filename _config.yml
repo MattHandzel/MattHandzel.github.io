@@ -103,6 +103,13 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+      MattHandzel.github.io
+      JimmyProject
+      NeuralNetworksFromScratch
+      MattHandzel
+      launchingAnObject
+      TomPetersGitarSchoolWebsite
+      NeuralNetworksFromScratchOLD
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
