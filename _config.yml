@@ -2,19 +2,19 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Matthew Handzel
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website :)
+description: This is Matthew Handzel's personal website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: MattHandzel
+username: Matthew Handzel
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Student
+typing_text: CS Student @ UIUC
 # email: Your E-Mail address for the email button.
 email: handzelmatthew@gmail.com
 # For every social button you want to display, set your username or userid
